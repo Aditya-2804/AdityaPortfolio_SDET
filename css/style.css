@@ -758,11 +758,7 @@
         /* Certifications Section */
         .certifications-container {
             display: grid;
-<<<<<<< HEAD
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-=======
             grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
->>>>>>> 73543ee (Added Certifications also,links to certs , OCI, And updated Resume)
             gap: 30px;
         }
 
@@ -796,11 +792,7 @@
         }
 
         .certification-card:hover .certification-image img {
-<<<<<<< HEAD
-            transform: scale(1.5);
-=======
             transform: scale(1.25);
->>>>>>> 73543ee (Added Certifications also,links to certs , OCI, And updated Resume)
         }
 
         .certification-overlay {
